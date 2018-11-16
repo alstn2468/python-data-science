@@ -53,4 +53,4 @@
 
 ### 8장 자연어 처리 시작하기
 - 자연어 처리 분석 및 시각화<br/>
-[[ipynb file]](https://github.com/alstn2468/Python_Data_Science/blob/master/source_code)
+[[ipynb file]](https://github.com/alstn2468/Python_Data_Science/blob/master/source_code/Chapter_8_Natural_Language_Processing.ipynb)
