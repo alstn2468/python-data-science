@@ -6,109 +6,42 @@
 
 ### 1장 서울시 구별 CCTV 현황 분석
 - - -
-```
-1-1. CCTV 현황과 인구 현황 데이터 구하기
-1-2. 파이썬에서 텍스트 파일과 엑셀 파일을 읽기 - pandas
-1-3. pandas 기초 익히기
-1-4. pandas를 이용해서 CCTV와 인구 현황 데이터 파악하기
-1-5. pandas 고급 기능 - 두 DataFrame 병합하기
-1-6. CCTV 데이터와 인구 현황 데이터를 합치고 분석하기
-1-7. 파이썬의 대표 시각화 도구 Matplotlib
-1-8. CCTV 현황 그래프로 분석하기
-```
+- [코드](https://github.com/alstn2468/Python_Data_Science/blob/master/source_code/Chapter_1_Seoul_CCTV_Data.ipynb)
 
 
 ### 2장 서울시 범죄 현황 분석
 - - -
-```
-2-1. 데이터 획득하기
-2-2. pandas를 이용하여 데이터 정리하기
-2-3. 지도 정보를 얻을 수 잇는 Google Maps
-2-4. Google Maps를 이용해서 주소와 위도, 경도 정보 얻기
-2-5. pandas의 pivot_table 학습하기
-2-6. Pivot_table을 이용해서 데이터 정리하기
-2-7. 데이터 표현을 위해 다듬기
-2-8. 좀 더 편리한 시각화 도구 - Seaborn
-2-9. 범죄 데이터 시각화하기
-2-10. 지도 시각화 도구 - Folium
-2-11. 서울시 범죄율에 대한 지도 시각화
-2-12. 서울시 경찰서별 검거율과 구별 범죄 발생율을 동시에 시각화하기
-```
+- [코드](https://github.com/alstn2468/Python_Data_Science/blob/master/source_code/Chapter_2_Seoul_Crime_Data.ipynb)
 
 
 ### 3장 시카고 샌드위치 맛집 분석
 - - -
-```
-3-1. 웹 데이터를 가져오는 Beautiful Soup 익히기
-3-2. 크롬 개발자 도구를 이용해서 원하는 태그 찾기
-3-3. 실전: 시카고 샌드위치 맛집 소개 사이트에 접근하기
-3-4. 접근한 웹 페이지에서 원하는 데이터 추출하고 정리하기
-3-5. 다수의 웹 페이지에 자동으로 접근해서 원하는 정보 가져오기
-3-6. Jupyter Notebook에서 상태 진행바를 쉽게 만들어주는 tqdm 모듈
-3-7. 상태 진행바까지 적용하고 다시 샌드위치 페이지 50개에 접근하기
-3-8. 50개 웹 페이지에 대한 정보 가져오기
-3-9. 맛집 위치를 지도에 표기하기
-3-10. 네이버 영화 평점 기준 영화의 평점 변화 확인하기
-3-11. 영화별 날짜 변화에 따른 평점 변화 확인하기
-```
+- [코드](https://github.com/alstn2468/Python_Data_Science/blob/master/source_code/Chapter_3_1_Web_Parsing_Example.ipynb)
+
+- [코드](https://github.com/alstn2468/Python_Data_Science/blob/master/source_code/Chapter_3_2_Naver_Movie_Rank.ipynb)
 
 
 ### 4장 셀프 주유소는 정말 저렴할까
 - - -
-```
-4-1. Selenium 사용하기
-4-2. 서울시 구별 주유소 가격 정보 얻기
-4-3. 구별 주유 가격에 대한 데이터의 정리
-4-4. 셀프 주유소는 정말 저렴한지 boxplot으로 확인하기
-4-5. 서울시 구별 주유 가격 확인하기
-4-6. 서울시 주유 가격 상하위 10개 주유소 지도에 표기하기
-```
+- [코드](https://github.com/alstn2468/Python_Data_Science/blob/master/source_code/Chapter_4_1_Selenium_Naver_Login.ipynb)
 
+- [코드](https://github.com/alstn2468/Python_Data_Science/blob/master/source_code/Chapter_4_2_Self_Oil_Station_Price.ipynb)
 
 ### 5장 우리나라 인구 소멸 위기 지역 분석
 - - -
-```
-5-1. 목표 명확히 하기
-5-2. 인구 데이터 확보하고 정리하기
-5-3. 인구 소멸 위기 지역 계산하고 데이터 정리하기
-5-4. 대한민국 지도 그리는 방법에 대한 소개
-5-5. 지도 시각화를 위해 지역별 고유 ID 만들기
-5-6. Cartogram으로 우리나라 지도 만들기
-5-7. 인구 현황 및 인구 소멸 지역 확인하기
-5-8. 인구 현황에서 여성 인구 비율 확인하기
-5-9. Folium에서 인구 소멸 위기 지역 표현하기
-```
+- [코드](https://github.com/alstn2468/Python_Data_Science/blob/master/source_code/Chapter_5_Population_Using_Korea_Map.ipynb)
 
 
 ### 6장 19대 대선 결과 분석
 - - -
-```
-6-1. Selenium과 Beautiful Soup을 이용한 데이터 획득 준비 작업
-6-2. 19대 대선 개표 결과 데이터 획득하기
-6-3. 각 후보의 득표율과 지역 ID 정리
-6-4. 19대 대선 결과 득표율 시각화하기
-```
+- [코드](https://github.com/alstn2468/Python_Data_Science/blob/master/source_code/Chapter_6_Election_Result.ipynb)
 
 
 ### 7장 시계열 데이터를 다뤄보자
 - - -
-```
-7-1. Numpy의 polyfit으로 회귀(regression) 분석하기
-7-2. Prophet 모듈을 이용한 forecast 예측
-7-3. Seasonal 시계열 분석으로 주식 데이터 분석하기
-7-4. Growth Model과 Holiday Forecast
-```
+- [코드](https://github.com/alstn2468/Python_Data_Science/blob/master/source_code/Chapter_7_Time_Series_Data_Handle.ipynb)
 
 
 ### 8장 자연어 처리 시작하기
 - - -
-```
-8-1. 한글 자연어 처리 기초 - KoNLPy 및 필요 모듈의 설치
-8-2. 한글 자연어 처리 기초
-8-3. 워드 클라우드
-8-4. 육아휴직 관련 법안에 대한 분석
-8-5. Naive Bayes Classifier 의 이해 - 영문
-8-6. Naive Bayes Classifier 의 이해 - 한글
-8-7. 문장의 유사도 측정하기
-8-8. 여자친구 선물 고르기
-```
+- [코드](https://github.com/alstn2468/Python_Data_Science/blob/master/source_code)
